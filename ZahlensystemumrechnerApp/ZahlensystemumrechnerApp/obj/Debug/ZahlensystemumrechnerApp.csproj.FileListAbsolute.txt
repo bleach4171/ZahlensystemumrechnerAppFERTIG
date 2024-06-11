@@ -1,0 +1,10 @@
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\bin\Debug\ZahlensystemumrechnerApp.exe.config
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\bin\Debug\ZahlensystemumrechnerApp.exe
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\bin\Debug\ZahlensystemumrechnerApp.pdb
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\obj\Debug\ZahlensystemumrechnerApp.csproj.AssemblyReference.cache
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\obj\Debug\ZahlensystemumrechnerApp.Form1.resources
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\obj\Debug\ZahlensystemumrechnerApp.Properties.Resources.resources
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\obj\Debug\ZahlensystemumrechnerApp.csproj.GenerateResource.cache
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\obj\Debug\ZahlensystemumrechnerApp.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\obj\Debug\ZahlensystemumrechnerApp.exe
+C:\Users\ahmad\source\repos\ZahlensystemumrechnerApp\ZahlensystemumrechnerApp\obj\Debug\ZahlensystemumrechnerApp.pdb
